@@ -3,7 +3,7 @@
 
 | | Carteira Truth | Carteira Momentum |
 |---|---|---|
-| **Capital de origem** | R$ 108.436,41 (herdado da v1) | R$ 100.000,00 (novo) |
+| **Capital de origem** | R$ 100.000,00  | R$ 100.000,00 (novo) |
 | **Início** | Janeiro 2026 | Março 2026 |
 
 > *"Não basta saber o que comprar. É preciso saber quando o mercado concorda com você."*
