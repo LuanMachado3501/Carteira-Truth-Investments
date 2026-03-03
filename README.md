@@ -49,4 +49,5 @@ Consumo discricionário de qualidade com escala e gestão comprovadas.
 ## Stack
 Python | yfinance | pandas | numpy
 
+*A analise feita para montar essa carteira foi feita no dia 28/12/2025 - desde então monitoro semanalmente as ações e o mercado.*
 *Portfólio hipotético e educacional. Não constitui recomendação de investimento.*
